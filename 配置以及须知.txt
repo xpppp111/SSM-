@@ -1,0 +1,7 @@
+我的配置是 tomcat7+jdk1.7+mysql55
+
+在数据库中运行sql文件之后直接导入maven项目
+
+然后在dbconfig.properites中将数据库设置改成自己的数据库设置既可
+
+
